@@ -1,0 +1,40 @@
+>props:
+Extenstion:
+>Tabnine // for code snippet
+>SuperMaven // for 
+--->For API fetching::   npm i axios
+--> axisois 
+when we go to 
+Home: 
+    this is home page
+    abc("abc")
+About:
+    this is about page
+    abc("second")
+    <abc title={data}/>
+
+
+
+downlaod bootstramp npm i bootstrap@latest
+
+Reuseble Compoents 
+fucntion abs(ans){
+    console.log(ans)
+}
+Demo: child Component of aboutt and contact
+
+Parent (ABout,Contact) to child (Demo)
+child (Contact, About) to Parent (App.jsx)  --> through fucntion
+child to child
+
+props sending from parent to child and child to parent is alot, therefore we use ContextAPI , redux
+
+navbar: bootstram
+dummy json products : fetch('https://dummyjson.com/products')
+
+
+git init  
+git config user.name "salshi"
+git config user.email "salshi@"
+git add .
+vercer or render website

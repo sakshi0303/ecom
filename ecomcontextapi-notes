@@ -1,0 +1,18 @@
+>context api in react allow component to share data across the component tree without having to pass props manually at every level.
+> it is useable for passing global data in nested component without prop drilling (the process of passing props down multiple layers)
+> App.js function xyx()-> Home-> Trail->Sidebar->Rightbar(x)
+
+
+createContent()
+provider and value
+Contextstartpahge(provide)
+state-> wrap-> Componentt
+usecontext
+
+create context folder
+create 2 file 
+>CounterContext.js createContext
+>CounterState.js ContextProvider
+>useConter
+
+> multiple context can be made we have to add in index.js
